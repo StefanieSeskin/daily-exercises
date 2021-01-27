@@ -12,6 +12,7 @@ let book = {
 //object "book" and set it to o1
 //format name as "Dan Brown"
 // let authorName = book.author;
+
 let authorName = book.author;
 let o1 = authorName.map(function(item) {
   return firstName, lastName;
